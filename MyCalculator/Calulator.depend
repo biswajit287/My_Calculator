@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1488423268 source:c:\users\hackboy\desktop\c\calulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1488541116 source:f:\mandal2\desktop\c\calulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
